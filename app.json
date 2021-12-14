@@ -1,0 +1,29 @@
+{
+  "id": "ca4d3fac-2bfd-4310-975d-64aebed39283",
+  "name": "WYSIWYG",
+  "publisher": "Peter Conijn",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "An example of a free WYSIWYG editor in Dynamics BC",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "8.0"
+}
